@@ -1,0 +1,252 @@
+[
+  {
+    "id": "shahadah_easy",
+    "title": "1. Shahadah (Faith)",
+    "iconName": "shahadah",
+    "difficulty": "easy",
+    "levels": [
+      {
+        "levelNumber": 1,
+        "levelTitle": "Faith Declaration",
+        "isUnlocked": true,
+        "parts": [
+          {
+            "id": "sh_l1_p1",
+            "title": "Declaration of Faith",
+            "isCompleted": false,
+            "isLocked": false,
+            "questions": [
+              {
+                "id": "q_sh1",
+                "questionText": "What is the first pillar of Islam?",
+                "options": ["Salah", "Shahadah", "Zakat", "Hajj"],
+                "correctOptionIndex": 1,
+                "reference": "Sahih Bukhari 8",
+                "explanation": "Shahadah is the primary foundational pillar of Islam.",
+                "difficulty": "easy"
+              },
+              {
+                "id": "q_sh2",
+                "questionText": "What does the first part of Shahadah testify?",
+                "options": ["Oneness of Allah", "Fasting in Ramadan", "Giving Charity", "Going to Hajj"],
+                "correctOptionIndex": 0,
+                "reference": "Surah Muhammad 19",
+                "explanation": "It declares that there is no god worthy of worship except Allah.",
+                "difficulty": "easy"
+              },
+              {
+                "id": "q_sh3",
+                "questionText": "Who is declared as the final messenger of Allah in Shahadah?",
+                "options": ["Prophet Isa (AS)", "Prophet Musa (AS)", "Prophet Ibrahim (AS)", "Prophet Muhammad (PBUH)"],
+                "correctOptionIndex": 3,
+                "reference": "Surah Al-Ahzab 40",
+                "explanation": "Shahadah bears witness that Prophet Muhammad (PBUH) is Allah’s Messenger.",
+                "difficulty": "easy"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "salah_easy",
+    "title": "2. Salah (Prayer)",
+    "iconName": "salah",
+    "difficulty": "easy",
+    "levels": [
+      {
+        "levelNumber": 1,
+        "levelTitle": "Daily Prayer Rules",
+        "isUnlocked": true,
+        "parts": [
+          {
+            "id": "sal_l1_p1",
+            "title": "Prayer Fundamentals",
+            "isCompleted": false,
+            "isLocked": false,
+            "questions": [
+              {
+                "id": "q_sal1",
+                "questionText": "How many daily obligatory prayers are prescribed in Islam?",
+                "options": ["3", "4", "5", "7"],
+                "correctOptionIndex": 2,
+                "reference": "Sahih Bukhari",
+                "explanation": "Muslims perform 5 obligatory prayers daily.",
+                "difficulty": "easy"
+              },
+              {
+                "id": "q_sal2",
+                "questionText": "Which prayer is offered right before sunrise?",
+                "options": ["Fajr", "Dhuhr", "Asr", "Maghrib"],
+                "correctOptionIndex": 0,
+                "reference": "Surah Al-Isra 78",
+                "explanation": "Fajr prayer is offered before dawn.",
+                "difficulty": "easy"
+              },
+              {
+                "id": "q_sal3",
+                "questionText": "What is the required ablution before Salah called?",
+                "options": ["Ghusl", "Wudu", "Tayammum", "Niyyah"],
+                "correctOptionIndex": 1,
+                "reference": "Surah Al-Ma’idah 6",
+                "explanation": "Wudu is required for ritual purity before prayer.",
+                "difficulty": "easy"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "zakat_medium",
+    "title": "3. Zakat (Almsgiving)",
+    "iconName": "zakat",
+    "difficulty": "easy",
+    "levels": [
+      {
+        "levelNumber": 1,
+        "levelTitle": "Charity Rules",
+        "isUnlocked": true,
+        "parts": [
+          {
+            "id": "zk_l1_p1",
+            "title": "Zakat Obligations",
+            "isCompleted": false,
+            "isLocked": false,
+            "questions": [
+              {
+                "id": "q_zk1",
+                "questionText": "What is the standard rate of Zakat on accumulated wealth?",
+                "options": ["1%", "2.5%", "5%", "10%"],
+                "correctOptionIndex": 1,
+                "reference": "Sahih Muslim",
+                "explanation": "The standard Zakat rate is 2.5% on qualifying wealth held for a year.",
+                "difficulty": "easy"
+              },
+              {
+                "id": "q_zk2",
+                "questionText": "What is the minimum wealth threshold for Zakat called?",
+                "options": ["Nisab", "Fitrana", "Sadaqah", "Kaffarah"],
+                "correctOptionIndex": 0,
+                "reference": "Sahih Bukhari 1447",
+                "explanation": "Nisab is the minimum wealth required before Zakat becomes obligatory.",
+                "difficulty": "easy"
+              },
+              {
+                "id": "q_zk3",
+                "questionText": "Which group of people is eligible to receive Zakat?",
+                "options": ["The poor and needy", "Wealthy traders", "Immediate family members", "Anyone asking"],
+                "correctOptionIndex": 0,
+                "reference": "Surah At-Tawbah 60",
+                "explanation": "Surah At-Tawbah verse 60 lists the eligible categories for Zakat.",
+                "difficulty": "easy"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "sawm_medium",
+    "title": "4. Sawm (Fasting)",
+    "iconName": "sawm",
+    "difficulty": "easy",
+    "levels": [
+      {
+        "levelNumber": 1,
+        "levelTitle": "Ramadan Fasting",
+        "isUnlocked": true,
+        "parts": [
+          {
+            "id": "sw_l1_p1",
+            "title": "Fasting Essentials",
+            "isCompleted": false,
+            "isLocked": false,
+            "questions": [
+              {
+                "id": "q_sw1",
+                "questionText": "In which month is mandatory fasting observed?",
+                "options": ["Muharram", "Rajab", "Ramadan", "Shawwal"],
+                "correctOptionIndex": 2,
+                "reference": "Surah Al-Baqarah 185",
+                "explanation": "Fasting is mandatory during the month of Ramadan.",
+                "difficulty": "easy"
+              },
+              {
+                "id": "q_sw2",
+                "questionText": "What is the pre-dawn meal before starting a fast called?",
+                "options": ["Suhoor", "Iftar", "Walima", "Tahajjud"],
+                "correctOptionIndex": 0,
+                "reference": "Sahih Bukhari 1923",
+                "explanation": "Suhoor is eaten before dawn to prepare for the fast.",
+                "difficulty": "easy"
+              },
+              {
+                "id": "q_sw3",
+                "questionText": "What is the meal eaten at sunset to break the fast called?",
+                "options": ["Suhoor", "Iftar", "Niyyah", "Duha"],
+                "correctOptionIndex": 1,
+                "reference": "Sunan Abi Dawud",
+                "explanation": "Iftar is the meal eaten to break the fast at Maghrib.",
+                "difficulty": "easy"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "hajj_hard",
+    "title": "5. Hajj (Pilgrimage)",
+    "iconName": "hajj",
+    "difficulty": "easy",
+    "levels": [
+      {
+        "levelNumber": 1,
+        "levelTitle": "Pilgrimage Rituals",
+        "isUnlocked": true,
+        "parts": [
+          {
+            "id": "hj_l1_p1",
+            "title": "Hajj Basics",
+            "isCompleted": false,
+            "isLocked": false,
+            "questions": [
+              {
+                "id": "q_hj1",
+                "questionText": "In which holy city is Hajj performed?",
+                "options": ["Madinah", "Makkah", "Jerusalem", "Taif"],
+                "correctOptionIndex": 1,
+                "reference": "Surah Ali Imran 96",
+                "explanation": "Hajj is performed in and around Makkah.",
+                "difficulty": "easy"
+              },
+              {
+                "id": "q_hj2",
+                "questionText": "On which day of Dhul Hijjah does standing at Mount Arafah occur?",
+                "options": ["8th", "9th", "10th", "12th"],
+                "correctOptionIndex": 1,
+                "reference": "Sahih Bukhari",
+                "explanation": "Standing at Arafah (Wuquf) takes place on the 9th of Dhul Hijjah.",
+                "difficulty": "easy"
+              },
+              {
+                "id": "q_hj3",
+                "questionText": "What is the sacred state required for performing Hajj?",
+                "options": ["Ihram", "Tawaf", "Sa’i", "Rami"],
+                "correctOptionIndex": 0,
+                "reference": "Sahih Muslim 1177",
+                "explanation": "Ihram is the sacred state entered into before performing Hajj or Umrah.",
+                "difficulty": "easy"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
