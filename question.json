@@ -42,6 +42,69 @@
                 "reference": "Surah Al-Ahzab 40",
                 "explanation": "Shahadah bears witness that Prophet Muhammad (PBUH) is Allah’s Messenger.",
                 "difficulty": "easy"
+              },
+              {
+                "id": "q_sh4",
+                "questionText": "What does 'La ilaha illallah' mean?",
+                "options": ["Allah is great", "There is no god but Allah", "Praise be to Allah", "Allah is forgiving"],
+                "correctOptionIndex": 1,
+                "reference": "Quran",
+                "explanation": "It is the fundamental declaration of Tawheed (Oneness of God).",
+                "difficulty": "easy"
+              },
+              {
+                "id": "q_sh5",
+                "questionText": "Reciting the Shahadah sincerely enters a person into?",
+                "options": ["Jannah immediately", "Islam", "A higher rank", "Hajj"],
+                "correctOptionIndex": 1,
+                "reference": "Islamic Jurisprudence",
+                "explanation": "It is the testimony required to become a Muslim.",
+                "difficulty": "easy"
+              },
+              {
+                "id": "q_sh6",
+                "questionText": "What is the original language of the Shahadah?",
+                "options": ["Urdu", "Persian", "Arabic", "Hebrew"],
+                "correctOptionIndex": 2,
+                "reference": "Historical Fact",
+                "explanation": "The Quran and the Shahadah are in Arabic.",
+                "difficulty": "easy"
+              },
+              {
+                "id": "q_sh7",
+                "questionText": "Who alone deserves to be worshipped according to Shahadah?",
+                "options": ["Prophets", "Angels", "Allah", "Saints"],
+                "correctOptionIndex": 2,
+                "reference": "Surah Al-Fatihah 5",
+                "explanation": "Worship is dedicated strictly to Allah.",
+                "difficulty": "easy"
+              },
+              {
+                "id": "q_sh8",
+                "questionText": "What is the greatest sin in Islam (opposite of Shahadah)?",
+                "options": ["Stealing", "Lying", "Shirk", "Backbiting"],
+                "correctOptionIndex": 2,
+                "reference": "Surah An-Nisa 48",
+                "explanation": "Shirk (associating partners with Allah) is the unforgivable sin if not repented.",
+                "difficulty": "easy"
+              },
+              {
+                "id": "q_sh9",
+                "questionText": "Prophet Muhammad (PBUH) is the Messenger and what of Allah?",
+                "options": ["Son", "Partner", "Slave/Servant", "Angel"],
+                "correctOptionIndex": 2,
+                "reference": "Shahadah formulation",
+                "explanation": "Muslims testify he is the slave ('abduhu) and messenger of Allah.",
+                "difficulty": "easy"
+              },
+              {
+                "id": "q_sh10",
+                "questionText": "Belief in the Shahadah must be affirmed by the tongue and?",
+                "options": ["Written down", "Believed in the heart", "Whispered", "Sung"],
+                "correctOptionIndex": 1,
+                "reference": "Aqeedah Rules",
+                "explanation": "True faith requires affirmation by the tongue and belief in the heart.",
+                "difficulty": "easy"
               }
             ]
           }
@@ -92,6 +155,69 @@
                 "reference": "Surah Al-Ma’idah 6",
                 "explanation": "Wudu is required for ritual purity before prayer.",
                 "difficulty": "easy"
+              },
+              {
+                "id": "q_sal4",
+                "questionText": "Which direction do Muslims face during Salah?",
+                "options": ["East", "Jerusalem", "The Qibla (Kaaba)", "The Sun"],
+                "correctOptionIndex": 2,
+                "reference": "Surah Al-Baqarah 144",
+                "explanation": "Muslims face the Kaaba in Makkah.",
+                "difficulty": "easy"
+              },
+              {
+                "id": "q_sal5",
+                "questionText": "What is the midday prayer called?",
+                "options": ["Fajr", "Dhuhr", "Asr", "Isha"],
+                "correctOptionIndex": 1,
+                "reference": "Islamic Jurisprudence",
+                "explanation": "Dhuhr is the prayer performed just after midday.",
+                "difficulty": "easy"
+              },
+              {
+                "id": "q_sal6",
+                "questionText": "What is the call to prayer called in Islam?",
+                "options": ["Iqamah", "Adhan", "Khutbah", "Dua"],
+                "correctOptionIndex": 1,
+                "reference": "Sunnah",
+                "explanation": "The Adhan is called out to notify Muslims that it is time for prayer.",
+                "difficulty": "easy"
+              },
+              {
+                "id": "q_sal7",
+                "questionText": "Which prayer is performed just after sunset?",
+                "options": ["Asr", "Maghrib", "Isha", "Tahajjud"],
+                "correctOptionIndex": 1,
+                "reference": "Sunnah",
+                "explanation": "Maghrib is the fourth obligatory prayer, prayed immediately after sunset.",
+                "difficulty": "easy"
+              },
+              {
+                "id": "q_sal8",
+                "questionText": "What is the weekly congregational prayer on Friday called?",
+                "options": ["Eid", "Jumu'ah", "Tarawih", "Witr"],
+                "correctOptionIndex": 1,
+                "reference": "Surah Al-Jumu'ah 9",
+                "explanation": "Jumu'ah replaces the Dhuhr prayer on Fridays and includes a sermon.",
+                "difficulty": "easy"
+              },
+              {
+                "id": "q_sal9",
+                "questionText": "What do we say when starting the prayer?",
+                "options": ["Allahu Akbar", "Alhamdulillah", "Bismillah", "Subhanallah"],
+                "correctOptionIndex": 0,
+                "reference": "Fiqh of Salah",
+                "explanation": "Takbeer (Allahu Akbar) is used to commence the prayer.",
+                "difficulty": "easy"
+              },
+              {
+                "id": "q_sal10",
+                "questionText": "What is the physical act of prostration in prayer called?",
+                "options": ["Ruku", "Sujud", "Qiyam", "Tashahhud"],
+                "correctOptionIndex": 1,
+                "reference": "Fiqh of Salah",
+                "explanation": "Sujud (Sajdah) is prostrating with the forehead touching the ground.",
+                "difficulty": "easy"
               }
             ]
           }
@@ -100,7 +226,7 @@
     ]
   },
   {
-    "id": "zakat_medium",
+    "id": "zakat_easy",
     "title": "3. Zakat (Almsgiving)",
     "iconName": "zakat",
     "difficulty": "easy",
@@ -142,6 +268,69 @@
                 "reference": "Surah At-Tawbah 60",
                 "explanation": "Surah At-Tawbah verse 60 lists the eligible categories for Zakat.",
                 "difficulty": "easy"
+              },
+              {
+                "id": "q_zk4",
+                "questionText": "What is the literal meaning of the word 'Zakat'?",
+                "options": ["Tax", "Purification and Growth", "Punishment", "Saving"],
+                "correctOptionIndex": 1,
+                "reference": "Arabic Lexicon",
+                "explanation": "Zakat purifies one's remaining wealth and promotes spiritual growth.",
+                "difficulty": "easy"
+              },
+              {
+                "id": "q_zk5",
+                "questionText": "Is Zakat obligatory on a person who does not meet the Nisab?",
+                "options": ["Yes", "No", "Only in Ramadan", "Only on Fridays"],
+                "correctOptionIndex": 1,
+                "reference": "Fiqh rules",
+                "explanation": "Zakat is only obligatory on those whose wealth reaches the Nisab.",
+                "difficulty": "easy"
+              },
+              {
+                "id": "q_zk6",
+                "questionText": "What is voluntary charity called in Islam?",
+                "options": ["Sadaqah", "Zakat", "Jizya", "Fidyah"],
+                "correctOptionIndex": 0,
+                "reference": "Islamic Terminology",
+                "explanation": "Sadaqah can be given at any time and in any amount.",
+                "difficulty": "easy"
+              },
+              {
+                "id": "q_zk7",
+                "questionText": "Which item is subject to Zakat?",
+                "options": ["Your personal house", "Your daily clothes", "Gold and Silver", "Your personal car"],
+                "correctOptionIndex": 2,
+                "reference": "Fiqh rules",
+                "explanation": "Personal necessities are exempt, but hoarded precious metals are subject to Zakat.",
+                "difficulty": "easy"
+              },
+              {
+                "id": "q_zk8",
+                "questionText": "When is Zakat al-Fitr mandatory to be given?",
+                "options": ["Before Eid al-Adha prayer", "Before Eid al-Fitr prayer", "In Muharram", "Every Friday"],
+                "correctOptionIndex": 1,
+                "reference": "Sahih Bukhari",
+                "explanation": "It must be given before the Eid prayer at the end of Ramadan.",
+                "difficulty": "easy"
+              },
+              {
+                "id": "q_zk9",
+                "questionText": "Can Zakat be given to build a mosque?",
+                "options": ["Yes, always", "No, it is for specific categories of people", "Only on Fridays", "Only by the rich"],
+                "correctOptionIndex": 1,
+                "reference": "Surah At-Tawbah 60",
+                "explanation": "Zakat is primarily for the 8 specific categories mentioned in the Quran.",
+                "difficulty": "easy"
+              },
+              {
+                "id": "q_zk10",
+                "questionText": "How long must wealth be held above Nisab before Zakat is due?",
+                "options": ["One lunar year (Hawl)", "One solar year", "Six months", "One month"],
+                "correctOptionIndex": 0,
+                "reference": "Islamic Jurisprudence",
+                "explanation": "One full Hijri year (Hawl) must pass on the qualifying wealth.",
+                "difficulty": "easy"
               }
             ]
           }
@@ -150,7 +339,7 @@
     ]
   },
   {
-    "id": "sawm_medium",
+    "id": "sawm_easy",
     "title": "4. Sawm (Fasting)",
     "iconName": "sawm",
     "difficulty": "easy",
@@ -192,6 +381,69 @@
                 "reference": "Sunan Abi Dawud",
                 "explanation": "Iftar is the meal eaten to break the fast at Maghrib.",
                 "difficulty": "easy"
+              },
+              {
+                "id": "q_sw4",
+                "questionText": "At what time does the fast begin?",
+                "options": ["Sunrise", "Midnight", "Dawn (Fajr)", "Noon"],
+                "correctOptionIndex": 2,
+                "reference": "Surah Al-Baqarah 187",
+                "explanation": "Fasting begins at true dawn.",
+                "difficulty": "easy"
+              },
+              {
+                "id": "q_sw5",
+                "questionText": "Who is exempt from fasting during Ramadan?",
+                "options": ["Healthy adults", "Travelers and the sick", "Students", "Workers"],
+                "correctOptionIndex": 1,
+                "reference": "Surah Al-Baqarah 184",
+                "explanation": "Those who are ill or traveling are permitted to break their fast and make it up later.",
+                "difficulty": "easy"
+              },
+              {
+                "id": "q_sw6",
+                "questionText": "What is the special night prayer in Ramadan called?",
+                "options": ["Tahajjud", "Witr", "Tarawih", "Duha"],
+                "correctOptionIndex": 2,
+                "reference": "Sunnah",
+                "explanation": "Tarawih prayers are held in congregation every night in Ramadan.",
+                "difficulty": "easy"
+              },
+              {
+                "id": "q_sw7",
+                "questionText": "What breaks a fast?",
+                "options": ["Swallowing saliva", "Eating intentionally", "Taking a shower", "Sleeping"],
+                "correctOptionIndex": 1,
+                "reference": "Fiqh Rules",
+                "explanation": "Intentionally eating or drinking nullifies the fast.",
+                "difficulty": "easy"
+              },
+              {
+                "id": "q_sw8",
+                "questionText": "What is the Night of Power called?",
+                "options": ["Laylatul Qadr", "Isra Wal Miraj", "Ashura", "Shab-e-Barat"],
+                "correctOptionIndex": 0,
+                "reference": "Surah Al-Qadr",
+                "explanation": "Laylatul Qadr is better than a thousand months.",
+                "difficulty": "easy"
+              },
+              {
+                "id": "q_sw9",
+                "questionText": "Which festival marks the end of Ramadan?",
+                "options": ["Eid al-Adha", "Eid al-Fitr", "Ashura", "Mawlid"],
+                "correctOptionIndex": 1,
+                "reference": "Islamic Calendar",
+                "explanation": "Eid al-Fitr is celebrated on the 1st of Shawwal.",
+                "difficulty": "easy"
+              },
+              {
+                "id": "q_sw10",
+                "questionText": "Fasting teaches Muslims what virtue?",
+                "options": ["Pride", "Impatience", "Taqwa (God-consciousness)", "Greed"],
+                "correctOptionIndex": 2,
+                "reference": "Surah Al-Baqarah 183",
+                "explanation": "The primary goal of fasting is to attain Taqwa.",
+                "difficulty": "easy"
               }
             ]
           }
@@ -200,7 +452,7 @@
     ]
   },
   {
-    "id": "hajj_hard",
+    "id": "hajj_easy",
     "title": "5. Hajj (Pilgrimage)",
     "iconName": "hajj",
     "difficulty": "easy",
@@ -242,6 +494,295 @@
                 "reference": "Sahih Muslim 1177",
                 "explanation": "Ihram is the sacred state entered into before performing Hajj or Umrah.",
                 "difficulty": "easy"
+              },
+              {
+                "id": "q_hj4",
+                "questionText": "Circling the Kaaba is known as?",
+                "options": ["Sa'i", "Rami", "Tawaf", "Wuquf"],
+                "correctOptionIndex": 2,
+                "reference": "Hajj Rituals",
+                "explanation": "Tawaf involves circumambulating the Kaaba 7 times.",
+                "difficulty": "easy"
+              },
+              {
+                "id": "q_hj5",
+                "questionText": "How many times must a pilgrim perform Tawaf around the Kaaba?",
+                "options": ["3", "5", "7", "9"],
+                "correctOptionIndex": 2,
+                "reference": "Sunnah",
+                "explanation": "It is required to circle the Kaaba 7 times.",
+                "difficulty": "easy"
+              },
+              {
+                "id": "q_hj6",
+                "questionText": "Walking between the hills of Safa and Marwa is called?",
+                "options": ["Tawaf", "Sa'i", "Jamarat", "Talbiyah"],
+                "correctOptionIndex": 1,
+                "reference": "Hajj Rituals",
+                "explanation": "Sa'i commemorates Hajar's search for water.",
+                "difficulty": "easy"
+              },
+              {
+                "id": "q_hj7",
+                "questionText": "Stoning the pillars in Mina is known as?",
+                "options": ["Rami", "Tawaf", "Muzdalifah", "Arafah"],
+                "correctOptionIndex": 0,
+                "reference": "Hajj Rituals",
+                "explanation": "Rami al-Jamarat is the stoning of the devil.",
+                "difficulty": "easy"
+              },
+              {
+                "id": "q_hj8",
+                "questionText": "Which animal is commonly sacrificed during Hajj?",
+                "options": ["Horse", "Sheep/Goat", "Chicken", "Fish"],
+                "correctOptionIndex": 1,
+                "reference": "Sunnah",
+                "explanation": "Livestock like sheep, goats, cows, or camels are sacrificed.",
+                "difficulty": "easy"
+              },
+              {
+                "id": "q_hj9",
+                "questionText": "Which Eid is celebrated during Hajj?",
+                "options": ["Eid al-Fitr", "Eid al-Adha", "Milad un Nabi", "Muharram"],
+                "correctOptionIndex": 1,
+                "reference": "Islamic Calendar",
+                "explanation": "Eid al-Adha is the festival of sacrifice.",
+                "difficulty": "easy"
+              },
+              {
+                "id": "q_hj10",
+                "questionText": "How many times is Hajj obligatory for a capable Muslim in their lifetime?",
+                "options": ["Every year", "Once", "Twice", "Only in old age"],
+                "correctOptionIndex": 1,
+                "reference": "Surah Ali Imran 97",
+                "explanation": "It is mandatory once in a lifetime if one has the physical and financial means.",
+                "difficulty": "easy"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "shahadah_medium",
+    "title": "1. Shahadah (Faith)",
+    "iconName": "shahadah",
+    "difficulty": "medium",
+    "levels": [
+      {
+        "levelNumber": 1,
+        "levelTitle": "Deepening Faith",
+        "isUnlocked": true,
+        "parts": [
+          {
+            "id": "sh_m_p1",
+            "title": "Concepts of Tawheed",
+            "isCompleted": false,
+            "isLocked": false,
+            "questions": [
+              {
+                "id": "q_sh_m1",
+                "questionText": "Tawheed is divided into how many main categories by scholars?",
+                "options": ["Two", "Three", "Four", "Five"],
+                "correctOptionIndex": 1,
+                "reference": "Aqeedah Studies",
+                "explanation": "Tawheed ar-Rububiyyah, Uluhiyyah, and Asma was-Sifat.",
+                "difficulty": "medium"
+              },
+              {
+                "id": "q_sh_m2",
+                "questionText": "What does Tawheed ar-Rububiyyah mean?",
+                "options": ["Oneness in worship", "Oneness in Allah's names", "Oneness in Lordship", "Oneness in Prophethood"],
+                "correctOptionIndex": 2,
+                "reference": "Aqeedah",
+                "explanation": "It means believing Allah is the sole Creator, Provider, and Sustainer.",
+                "difficulty": "medium"
+              },
+              {
+                "id": "q_sh_m3",
+                "questionText": "Which form of Shirk completely takes a person out of the fold of Islam?",
+                "options": ["Shirk al-Asghar (Minor)", "Shirk al-Akbar (Major)", "Showing off (Riya)", "Swearing by other than Allah"],
+                "correctOptionIndex": 1,
+                "reference": "Fiqh",
+                "explanation": "Major Shirk nullifies faith.",
+                "difficulty": "medium"
+              },
+              {
+                "id": "q_sh_m4",
+                "questionText": "Belief in Allah's names and attributes falls under which category?",
+                "options": ["Tawheed al-Uluhiyyah", "Tawheed ar-Rububiyyah", "Tawheed al-Asma was-Sifat", "Tawheed al-Hakimiyyah"],
+                "correctOptionIndex": 2,
+                "reference": "Aqeedah",
+                "explanation": "It relates to Allah's unique Names and Attributes.",
+                "difficulty": "medium"
+              },
+              {
+                "id": "q_sh_m5",
+                "questionText": "What was the core message of all the Prophets?",
+                "options": ["Fasting", "Charity", "Tawheed", "Pilgrimage"],
+                "correctOptionIndex": 2,
+                "reference": "Surah Al-Anbiya 25",
+                "explanation": "Every prophet was sent with the message of worshipping Allah alone.",
+                "difficulty": "medium"
+              },
+              {
+                "id": "q_sh_m6",
+                "questionText": "Which Surah is considered equivalent to one-third of the Quran due to its focus on Tawheed?",
+                "options": ["Al-Fatihah", "Al-Baqarah", "Al-Ikhlas", "Al-Kafirun"],
+                "correctOptionIndex": 2,
+                "reference": "Sahih Bukhari",
+                "explanation": "Surah Al-Ikhlas purely describes the oneness of Allah.",
+                "difficulty": "medium"
+              },
+              {
+                "id": "q_sh_m7",
+                "questionText": "What is the condition of 'Yaqeen' regarding the Shahadah?",
+                "options": ["Love", "Certainty without doubt", "Submission", "Sincerity"],
+                "correctOptionIndex": 1,
+                "reference": "Conditions of Shahadah",
+                "explanation": "Yaqeen means having absolute certainty in the declaration.",
+                "difficulty": "medium"
+              },
+              {
+                "id": "q_sh_m8",
+                "questionText": "Showing off (Riya) in acts of worship is classified as?",
+                "options": ["Major Shirk", "Minor Shirk", "Bid'ah", "Kufr"],
+                "correctOptionIndex": 1,
+                "reference": "Hadith of Prophet (PBUH)",
+                "explanation": "Riya is considered Shirk al-Asghar (Minor Shirk).",
+                "difficulty": "medium"
+              },
+              {
+                "id": "q_sh_m9",
+                "questionText": "Who were the first people to be invited to the Shahadah by the Prophet (PBUH)?",
+                "options": ["People of Madinah", "His close family and friends", "Kings of neighboring lands", "The Romans"],
+                "correctOptionIndex": 1,
+                "reference": "Seerah",
+                "explanation": "He started secretly with his closest associates like Khadijah and Abu Bakr.",
+                "difficulty": "medium"
+              },
+              {
+                "id": "q_sh_m10",
+                "questionText": "A person who rejects the Sunnah but claims to follow the Quran is violating which part of the Shahadah?",
+                "options": ["The first part", "The second part", "Both parts", "Neither"],
+                "correctOptionIndex": 1,
+                "reference": "Islamic Jurisprudence",
+                "explanation": "The second part testifies Muhammad (PBUH) is the Messenger, making his Sunnah binding.",
+                "difficulty": "medium"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "shahadah_hard",
+    "title": "1. Shahadah (Faith)",
+    "iconName": "shahadah",
+    "difficulty": "hard",
+    "levels": [
+      {
+        "levelNumber": 1,
+        "levelTitle": "Advanced Aqeedah",
+        "isUnlocked": true,
+        "parts": [
+          {
+            "id": "sh_h_p1",
+            "title": "Scholarly Principles",
+            "isCompleted": false,
+            "isLocked": false,
+            "questions": [
+              {
+                "id": "q_sh_h1",
+                "questionText": "How many conditions (Shurut) of the Shahadah are universally agreed upon by scholars of Aqeedah?",
+                "options": ["Five", "Seven", "Nine", "Twelve"],
+                "correctOptionIndex": 1,
+                "reference": "Books of Aqeedah",
+                "explanation": "They are Knowledge, Certainty, Acceptance, Submission, Truthfulness, Sincerity, and Love.",
+                "difficulty": "hard"
+              },
+              {
+                "id": "q_sh_h2",
+                "questionText": "The concept of 'Al-Wala wal-Bara' is closely linked to which part of belief?",
+                "options": ["Fasting rules", "Tawheed", "Inheritance laws", "Marriage"],
+                "correctOptionIndex": 1,
+                "reference": "Aqeedah",
+                "explanation": "It means loyalty to Allah/believers and disavowal of polytheism.",
+                "difficulty": "hard"
+              },
+              {
+                "id": "q_sh_h3",
+                "questionText": "What does 'Tawheed al-Hakimiyyah' refer to in modern Islamic discourse?",
+                "options": ["Oneness in worship", "Oneness in legislation and rule", "Oneness in creation", "Oneness in names"],
+                "correctOptionIndex": 1,
+                "reference": "Contemporary Islamic Thought",
+                "explanation": "It refers to the belief that Allah is the ultimate Lawgiver.",
+                "difficulty": "hard"
+              },
+              {
+                "id": "q_sh_h4",
+                "questionText": "If a person claims a prophet came after Muhammad (PBUH), what is their status?",
+                "options": ["A sinner", "A disbeliever", "A hypocrite", "A righteous person"],
+                "correctOptionIndex": 1,
+                "reference": "Ijma (Consensus)",
+                "explanation": "Rejecting the finality of Prophethood nullifies Islam.",
+                "difficulty": "hard"
+              },
+              {
+                "id": "q_sh_h5",
+                "questionText": "According to the Ash'ari and Maturidi schools, how are Allah's attributes understood?",
+                "options": ["Rejected completely", "Affirmed physically", "Affirmed without comparing to creation", "Considered symbolic only"],
+                "correctOptionIndex": 2,
+                "reference": "Classical Theology",
+                "explanation": "They affirm the attributes but without anthropomorphism (Tashbih).",
+                "difficulty": "hard"
+              },
+              {
+                "id": "q_sh_h6",
+                "questionText": "The phrase 'Kufr duna Kufr' (minor disbelief) was famously used by which companion regarding ruling by other than Allah's law?",
+                "options": ["Umar ibn Al-Khattab", "Abdullah ibn Abbas", "Ali ibn Abi Talib", "Abu Hurairah"],
+                "correctOptionIndex": 1,
+                "reference": "Tafsir of Surah Al-Ma'idah",
+                "explanation": "Ibn Abbas used this to explain different levels of Kufr.",
+                "difficulty": "hard"
+              },
+              {
+                "id": "q_sh_h7",
+                "questionText": "What is 'Tawassul'?",
+                "options": ["Rejecting faith", "Seeking a means of nearness to Allah", "Performing Hajj", "Giving charity secretly"],
+                "correctOptionIndex": 1,
+                "reference": "Fiqh and Aqeedah",
+                "explanation": "Tawassul is using a permissible means to draw close to Allah.",
+                "difficulty": "hard"
+              },
+              {
+                "id": "q_sh_h8",
+                "questionText": "Which sect historically deviated by claiming that committing a major sin completely expels a person from Islam?",
+                "options": ["Murji'ah", "Khawarij", "Mu'tazila", "Qadariyyah"],
+                "correctOptionIndex": 1,
+                "reference": "Islamic History",
+                "explanation": "The Khawarij held the extremist view of Takfir for major sins.",
+                "difficulty": "hard"
+              },
+              {
+                "id": "q_sh_h9",
+                "questionText": "What is the ruling on one who mocks an established part of the religion out of a joke?",
+                "options": ["Minor sin", "Makruh", "Nullifies Islam", "Requires a small charity"],
+                "correctOptionIndex": 2,
+                "reference": "Surah At-Tawbah 65-66",
+                "explanation": "Mocking Allah, His verses, or His Messenger is an act of Kufr.",
+                "difficulty": "hard"
+              },
+              {
+                "id": "q_sh_h10",
+                "questionText": "What is 'Ilm al-Kalam'?",
+                "options": ["Science of Hadith", "Science of Tajweed", "Islamic Scholastic Theology", "Islamic Jurisprudence"],
+                "correctOptionIndex": 2,
+                "reference": "Islamic Sciences",
+                "explanation": "It is the study of Islamic doctrine through dialectical methods.",
+                "difficulty": "hard"
               }
             ]
           }
