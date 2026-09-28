@@ -442,191 +442,907 @@
     ]
   },
   {
-    "id": "medium_level",
-    "difficulty": "medium",
-    "title": "Medium Level",
-    "topics": [
-      {
-        "id": "shahadah_medium",
-        "title": "1. Shahadah (Faith)",
-        "iconName": "shahadah",
-        "questions": [
-          {
-            "id": "q_sh_m1",
-            "questionText": "Tawheed is divided into how many main categories by scholars?",
-            "options": ["Two", "Three", "Four", "Five"],
-            "correctOptionIndex": 1,
-            "reference": "Aqeedah Studies",
-            "explanation": "Tawheed ar-Rububiyyah, Uluhiyyah, and Asma was-Sifat."
-          },
-          {
-            "id": "q_sh_m2",
-            "questionText": "What does Tawheed ar-Rububiyyah mean?",
-            "options": ["Oneness in worship", "Oneness in Allah's names", "Oneness in Lordship", "Oneness in Prophethood"],
-            "correctOptionIndex": 2,
-            "reference": "Aqeedah",
-            "explanation": "It means believing Allah is the sole Creator, Provider, and Sustainer."
-          },
-          {
-            "id": "q_sh_m3",
-            "questionText": "Which form of Shirk completely takes a person out of the fold of Islam?",
-            "options": ["Shirk al-Asghar (Minor)", "Shirk al-Akbar (Major)", "Showing off (Riya)", "Swearing by other than Allah"],
-            "correctOptionIndex": 1,
-            "reference": "Fiqh",
-            "explanation": "Major Shirk nullifies faith."
-          },
-          {
-            "id": "q_sh_m4",
-            "questionText": "Belief in Allah's names and attributes falls under which category?",
-            "options": ["Tawheed al-Uluhiyyah", "Tawheed ar-Rububiyyah", "Tawheed al-Asma was-Sifat", "Tawheed al-Hakimiyyah"],
-            "correctOptionIndex": 2,
-            "reference": "Aqeedah",
-            "explanation": "It relates to Allah's unique Names and Attributes."
-          },
-          {
-            "id": "q_sh_m5",
-            "questionText": "What was the core message of all the Prophets?",
-            "options": ["Fasting", "Charity", "Tawheed", "Pilgrimage"],
-            "correctOptionIndex": 2,
-            "reference": "Surah Al-Anbiya 25",
-            "explanation": "Every prophet was sent with the message of worshipping Allah alone."
-          },
-          {
-            "id": "q_sh_m6",
-            "questionText": "Which Surah is considered equivalent to one-third of the Quran due to its focus on Tawheed?",
-            "options": ["Al-Fatihah", "Al-Baqarah", "Al-Ikhlas", "Al-Kafirun"],
-            "correctOptionIndex": 2,
-            "reference": "Sahih Bukhari",
-            "explanation": "Surah Al-Ikhlas purely describes the oneness of Allah."
-          },
-          {
-            "id": "q_sh_m7",
-            "questionText": "What is the condition of 'Yaqeen' regarding the Shahadah?",
-            "options": ["Love", "Certainty without doubt", "Submission", "Sincerity"],
-            "correctOptionIndex": 1,
-            "reference": "Conditions of Shahadah",
-            "explanation": "Yaqeen means having absolute certainty in the declaration."
-          },
-          {
-            "id": "q_sh_m8",
-            "questionText": "Showing off (Riya) in acts of worship is classified as?",
-            "options": ["Major Shirk", "Minor Shirk", "Bid'ah", "Kufr"],
-            "correctOptionIndex": 1,
-            "reference": "Hadith of Prophet (PBUH)",
-            "explanation": "Riya is considered Shirk al-Asghar (Minor Shirk)."
-          },
-          {
-            "id": "q_sh_m9",
-            "questionText": "Who were the first people to be invited to the Shahadah by the Prophet (PBUH)?",
-            "options": ["People of Madinah", "His close family and friends", "Kings of neighboring lands", "The Romans"],
-            "correctOptionIndex": 1,
-            "reference": "Seerah",
-            "explanation": "He started secretly with his closest associates like Khadijah and Abu Bakr."
-          },
-          {
-            "id": "q_sh_m10",
-            "questionText": "A person who rejects the Sunnah but claims to follow the Quran is violating which part of the Shahadah?",
-            "options": ["The first part", "The second part", "Both parts", "Neither"],
-            "correctOptionIndex": 1,
-            "reference": "Islamic Jurisprudence",
-            "explanation": "The second part testifies Muhammad (PBUH) is the Messenger, making his Sunnah binding."
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": "hard_level",
-    "difficulty": "hard",
-    "title": "Hard Level",
-    "topics": [
-      {
-        "id": "shahadah_hard",
-        "title": "1. Shahadah (Faith)",
-        "iconName": "shahadah",
-        "questions": [
-          {
-            "id": "q_sh_h1",
-            "questionText": "How many conditions (Shurut) of the Shahadah are universally agreed upon by scholars of Aqeedah?",
-            "options": ["Five", "Seven", "Nine", "Twelve"],
-            "correctOptionIndex": 1,
-            "reference": "Books of Aqeedah",
-            "explanation": "They are Knowledge, Certainty, Acceptance, Submission, Truthfulness, Sincerity, and Love."
-          },
-          {
-            "id": "q_sh_h2",
-            "questionText": "The concept of 'Al-Wala wal-Bara' is closely linked to which part of belief?",
-            "options": ["Fasting rules", "Tawheed", "Inheritance laws", "Marriage"],
-            "correctOptionIndex": 1,
-            "reference": "Aqeedah",
-            "explanation": "It means loyalty to Allah/believers and disavowal of polytheism."
-          },
-          {
-            "id": "q_sh_h3",
-            "questionText": "What does 'Tawheed al-Hakimiyyah' refer to in modern Islamic discourse?",
-            "options": ["Oneness in worship", "Oneness in legislation and rule", "Oneness in creation", "Oneness in names"],
-            "correctOptionIndex": 1,
-            "reference": "Contemporary Islamic Thought",
-            "explanation": "It refers to the belief that Allah is the ultimate Lawgiver."
-          },
-          {
-            "id": "q_sh_h4",
-            "questionText": "If a person claims a prophet came after Muhammad (PBUH), what is their status?",
-            "options": ["A sinner", "A disbeliever", "A hypocrite", "A righteous person"],
-            "correctOptionIndex": 1,
-            "reference": "Ijma (Consensus)",
-            "explanation": "Rejecting the finality of Prophethood nullifies Islam."
-          },
-          {
-            "id": "q_sh_h5",
-            "questionText": "According to the Ash'ari and Maturidi schools, how are Allah's attributes understood?",
-            "options": ["Rejected completely", "Affirmed physically", "Affirmed without comparing to creation", "Considered symbolic only"],
-            "correctOptionIndex": 2,
-            "reference": "Classical Theology",
-            "explanation": "They affirm the attributes but without anthropomorphism (Tashbih)."
-          },
-          {
-            "id": "q_sh_h6",
-            "questionText": "The phrase 'Kufr duna Kufr' (minor disbelief) was famously used by which companion regarding ruling by other than Allah's law?",
-            "options": ["Umar ibn Al-Khattab", "Abdullah ibn Abbas", "Ali ibn Abi Talib", "Abu Hurairah"],
-            "correctOptionIndex": 1,
-            "reference": "Tafsir of Surah Al-Ma'idah",
-            "explanation": "Ibn Abbas used this to explain different levels of Kufr."
-          },
-          {
-            "id": "q_sh_h7",
-            "questionText": "What is 'Tawassul'?",
-            "options": ["Rejecting faith", "Seeking a means of nearness to Allah", "Performing Hajj", "Giving charity secretly"],
-            "correctOptionIndex": 1,
-            "reference": "Fiqh and Aqeedah",
-            "explanation": "Tawassul is using a permissible means to draw close to Allah."
-          },
-          {
-            "id": "q_sh_h8",
-            "questionText": "Which sect historically deviated by claiming that committing a major sin completely expels a person from Islam?",
-            "options": ["Murji'ah", "Khawarij", "Mu'tazila", "Qadariyyah"],
-            "correctOptionIndex": 1,
-            "reference": "Islamic History",
-            "explanation": "The Khawarij held the extremist view of Takfir for major sins."
-          },
-          {
-            "id": "q_sh_h9",
-            "questionText": "What is the ruling on one who mocks an established part of the religion out of a joke?",
-            "options": ["Minor sin", "Makruh", "Nullifies Islam", "Requires a small charity"],
-            "correctOptionIndex": 2,
-            "reference": "Surah At-Tawbah 65-66",
-            "explanation": "Mocking Allah, His verses, or His Messenger is an act of Kufr."
-          },
-          {
-            "id": "q_sh_h10",
-            "questionText": "What is 'Ilm al-Kalam'?",
-            "options": ["Science of Hadith", "Science of Tajweed", "Islamic Scholastic Theology", "Islamic Jurisprudence"],
-            "correctOptionIndex": 2,
-            "reference": "Islamic Sciences",
-            "explanation": "It is the study of Islamic doctrine through dialectical methods."
-          }
-        ]
-      }
-    ]
-  }
+  "id": "medium_level",
+  "difficulty": "medium",
+  "title": "Medium Level",
+  "topics": [
+    {
+      "id": "shahadah_medium",
+      "title": "1. Shahadah (Faith)",
+      "iconName": "shahadah",
+      "isCompleted": false,
+      "isLocked": false,
+      "questions": [
+        {
+          "id": "q_sh_m1",
+          "questionText": "Tawheed is divided into how many main categories by scholars?",
+          "options": ["Two", "Three", "Four", "Five"],
+          "correctOptionIndex": 1,
+          "reference": "Aqeedah Studies",
+          "explanation": "Tawheed ar-Rububiyyah, Uluhiyyah, and Asma was-Sifat."
+        },
+        {
+          "id": "q_sh_m2",
+          "questionText": "What does Tawheed ar-Rububiyyah mean?",
+          "options": ["Oneness in worship", "Oneness in Allah's names", "Oneness in Lordship", "Oneness in Prophethood"],
+          "correctOptionIndex": 2,
+          "reference": "Aqeedah",
+          "explanation": "It means believing Allah is the sole Creator, Provider, and Sustainer."
+        },
+        {
+          "id": "q_sh_m3",
+          "questionText": "Which form of Shirk completely takes a person out of the fold of Islam?",
+          "options": ["Shirk al-Asghar (Minor)", "Shirk al-Akbar (Major)", "Showing off (Riya)", "Swearing by other than Allah"],
+          "correctOptionIndex": 1,
+          "reference": "Fiqh",
+          "explanation": "Major Shirk nullifies faith."
+        },
+        {
+          "id": "q_sh_m4",
+          "questionText": "Belief in Allah's names and attributes falls under which category?",
+          "options": ["Tawheed al-Uluhiyyah", "Tawheed ar-Rububiyyah", "Tawheed al-Asma was-Sifat", "Tawheed al-Hakimiyyah"],
+          "correctOptionIndex": 2,
+          "reference": "Aqeedah",
+          "explanation": "It relates to Allah's unique Names and Attributes."
+        },
+        {
+          "id": "q_sh_m5",
+          "questionText": "What was the core message of all the Prophets?",
+          "options": ["Fasting", "Charity", "Tawheed", "Pilgrimage"],
+          "correctOptionIndex": 2,
+          "reference": "Surah Al-Anbiya 25",
+          "explanation": "Every prophet was sent with the message of worshipping Allah alone."
+        },
+        {
+          "id": "q_sh_m6",
+          "questionText": "Which Surah is considered equivalent to one-third of the Quran due to its focus on Tawheed?",
+          "options": ["Al-Fatihah", "Al-Baqarah", "Al-Ikhlas", "Al-Kafirun"],
+          "correctOptionIndex": 2,
+          "reference": "Sahih Bukhari",
+          "explanation": "Surah Al-Ikhlas purely describes the oneness of Allah."
+        },
+        {
+          "id": "q_sh_m7",
+          "questionText": "What is the condition of 'Yaqeen' regarding the Shahadah?",
+          "options": ["Love", "Certainty without doubt", "Submission", "Sincerity"],
+          "correctOptionIndex": 1,
+          "reference": "Conditions of Shahadah",
+          "explanation": "Yaqeen means having absolute certainty in the declaration."
+        },
+        {
+          "id": "q_sh_m8",
+          "questionText": "Showing off (Riya) in acts of worship is classified as?",
+          "options": ["Major Shirk", "Minor Shirk", "Bid'ah", "Kufr"],
+          "correctOptionIndex": 1,
+          "reference": "Hadith of Prophet (PBUH)",
+          "explanation": "Riya is considered Shirk al-Asghar (Minor Shirk)."
+        },
+        {
+          "id": "q_sh_m9",
+          "questionText": "Who were the first people to be invited to the Shahadah by the Prophet (PBUH)?",
+          "options": ["People of Madinah", "His close family and friends", "Kings of neighboring lands", "The Romans"],
+          "correctOptionIndex": 1,
+          "reference": "Seerah",
+          "explanation": "He started secretly with his closest associates like Khadijah and Abu Bakr."
+        },
+        {
+          "id": "q_sh_m10",
+          "questionText": "A person who rejects the Sunnah but claims to follow the Quran is violating which part of the Shahadah?",
+          "options": ["The first part", "The second part", "Both parts", "Neither"],
+          "correctOptionIndex": 1,
+          "reference": "Islamic Jurisprudence",
+          "explanation": "The second part testifies Muhammad (PBUH) is the Messenger, making his Sunnah binding."
+        }
+      ]
+    },
+    {
+      "id": "salah_medium",
+      "title": "2. Salah (Prayer)",
+      "iconName": "salah",
+      "isCompleted": false,
+      "isLocked": false,
+      "questions": [
+        {
+          "id": "q_sl_m1",
+          "questionText": "What is the term for the prostrations performed to correct a mistake in Salah?",
+          "options": ["Sujud al-Tilawah", "Sujud as-Sahw", "Sujud ash-Shukr", "Ruku"],
+          "correctOptionIndex": 1,
+          "reference": "Fiqh of Salah",
+          "explanation": "Sujud as-Sahw (Prostration of Forgetfulness) is performed to compensate for certain omissions or additions in prayer."
+        },
+        {
+          "id": "q_sl_m2",
+          "questionText": "How many Takbeers are normally pronounced in the first Rak'ah of Salat al-Janazah (Funeral Prayer)?",
+          "options": ["One", "Two", "Three", "Four"],
+          "correctOptionIndex": 3,
+          "reference": "Sahih Muslim",
+          "explanation": "The funeral prayer generally consists of four Takbeers without bowing or prostrating."
+        },
+        {
+          "id": "q_sl_m3",
+          "questionText": "What is the ruling of shortening prayers (Qasr) for a traveler?",
+          "options": ["Fard (Obligatory)", "Haram (Forbidden)", "Sunnah (Recommended)", "Makruh (Disliked)"],
+          "correctOptionIndex": 2,
+          "reference": "Quran 4:101",
+          "explanation": "It is a highly recommended Sunnah (concession from Allah) to shorten 4-rak'ah prayers to 2 for travelers."
+        },
+        {
+          "id": "q_sl_m4",
+          "questionText": "Which prayer is performed during a solar or lunar eclipse?",
+          "options": ["Salat al-Istisqa", "Salat al-Kusuf/Khusuf", "Salat al-Duha", "Salat al-Hajat"],
+          "correctOptionIndex": 1,
+          "reference": "Sahih Bukhari",
+          "explanation": "Kusuf is for solar eclipses and Khusuf is for lunar eclipses."
+        },
+        {
+          "id": "q_sl_m5",
+          "questionText": "What is a 'Sutrah' in the context of Salah?",
+          "options": ["A type of prayer mat", "An object placed in front of a praying person", "A specific dua", "A head covering"],
+          "correctOptionIndex": 1,
+          "reference": "Sunan Abu Dawud",
+          "explanation": "A Sutrah is an object a worshipper places in front of them to prevent others from passing directly in front of their prayer space."
+        },
+        {
+          "id": "q_sl_m6",
+          "questionText": "How many Sunnah Mu'akkadah (emphasized Sunnah) rak'ahs are there in a day and night?",
+          "options": ["10", "12", "14", "16"],
+          "correctOptionIndex": 1,
+          "reference": "Sunan at-Tirmidhi",
+          "explanation": "The Prophet (PBUH) mentioned 12 rak'ahs: 2 before Fajr, 4 before Zuhr, 2 after Zuhr, 2 after Maghrib, and 2 after Isha."
+        },
+        {
+          "id": "q_sl_m7",
+          "questionText": "If someone joins the congregation while the Imam is in Ruku, do they count that Rak'ah?",
+          "options": ["Yes", "No", "Only if they recite Surah Fatihah", "Only in Fajr prayer"],
+          "correctOptionIndex": 0,
+          "reference": "Sahih Bukhari",
+          "explanation": "Catching the Ruku with the Imam counts as having caught the complete Rak'ah."
+        },
+        {
+          "id": "q_sl_m8",
+          "questionText": "Which direction did the early Muslims face for prayer before the Qiblah was changed to Makkah?",
+          "options": ["Ta'if", "Madinah", "Al-Aqsa (Jerusalem)", "Mount Sinai"],
+          "correctOptionIndex": 2,
+          "reference": "Quran 2:144",
+          "explanation": "The first Qiblah was Bayt al-Maqdis (Al-Aqsa in Jerusalem) before it was changed to the Kaaba."
+        },
+        {
+          "id": "q_sl_m9",
+          "questionText": "What is the prayer for seeking rain called?",
+          "options": ["Salat al-Istikharah", "Salat al-Istisqa", "Salat al-Tasbih", "Salat al-Awwabin"],
+          "correctOptionIndex": 1,
+          "reference": "Fiqh of Salah",
+          "explanation": "Salat al-Istisqa is specifically performed during times of drought to seek rain from Allah."
+        },
+        {
+          "id": "q_sl_m10",
+          "questionText": "What nullifies the Wudu (ablution) according to general consensus?",
+          "options": ["Eating meat", "Deep sleep where awareness is lost", "Looking at a mirror", "Talking during ablution"],
+          "correctOptionIndex": 1,
+          "reference": "Sunan Abu Dawud",
+          "explanation": "Deep sleep causes a person to lose physical control, which breaks Wudu."
+        }
+      ]
+    },
+    {
+      "id": "zakat_medium",
+      "title": "3. Zakat (Charity)",
+      "iconName": "zakat",
+      "isCompleted": false,
+      "isLocked": false,
+      "questions": [
+        {
+          "id": "q_zk_m1",
+          "questionText": "How many categories of people are eligible to receive Zakat according to the Quran?",
+          "options": ["Six", "Seven", "Eight", "Nine"],
+          "correctOptionIndex": 2,
+          "reference": "Surah At-Tawbah 9:60",
+          "explanation": "The Quran lists 8 specific categories of people who can receive Zakat."
+        },
+        {
+          "id": "q_zk_m2",
+          "questionText": "What is the minimum Nisab (threshold) for silver to be eligible for Zakat?",
+          "options": ["595 grams", "85 grams", "200 grams", "1000 grams"],
+          "correctOptionIndex": 0,
+          "reference": "Fiqh of Zakat",
+          "explanation": "The Nisab for silver is 595 grams (or 200 dirhams)."
+        },
+        {
+          "id": "q_zk_m3",
+          "questionText": "What is the standard Zakat percentage for wealth that has been held for a full lunar year?",
+          "options": ["1.5%", "2.0%", "2.5%", "3.0%"],
+          "correctOptionIndex": 2,
+          "reference": "Fiqh",
+          "explanation": "The standard rate is 2.5% (or 1/40th) of qualifying accumulated wealth."
+        },
+        {
+          "id": "q_zk_m4",
+          "questionText": "What is 'Hawl' in the context of Zakat?",
+          "options": ["The wealth itself", "A lunar year", "The Zakat collector", "The recipient"],
+          "correctOptionIndex": 1,
+          "reference": "Fiqh Terminology",
+          "explanation": "Hawl refers to the passage of one complete lunar year over the wealth."
+        },
+        {
+          "id": "q_zk_m5",
+          "questionText": "Which of the following is Zakat NOT obligatory on?",
+          "options": ["Gold and silver", "Livestock", "Business merchandise", "Personal use car and home"],
+          "correctOptionIndex": 3,
+          "reference": "Fiqh of Zakat",
+          "explanation": "Zakat is not paid on items of purely personal use like one's primary residence, clothes, or personal vehicles."
+        },
+        {
+          "id": "q_zk_m6",
+          "questionText": "What is the Zakat on agricultural produce watered naturally (by rain)?",
+          "options": ["2.5%", "5%", "10%", "20%"],
+          "correctOptionIndex": 2,
+          "reference": "Sahih Muslim",
+          "explanation": "It is 10% (Ushr) for naturally watered land, and 5% if artificially irrigated."
+        },
+        {
+          "id": "q_zk_m7",
+          "questionText": "Who among the following cannot be given Zakat?",
+          "options": ["A poor neighbor", "A traveler in need", "One's own parents or children", "A new convert to Islam"],
+          "correctOptionIndex": 2,
+          "reference": "Islamic Jurisprudence",
+          "explanation": "You cannot give Zakat to your direct dependents (parents, children, spouse) as their maintenance is already your duty."
+        },
+        {
+          "id": "q_zk_m8",
+          "questionText": "What is Zakat al-Fitr?",
+          "options": ["Zakat on business inventory", "Charity given at the end of Ramadan", "Zakat on agriculture", "Voluntary charity"],
+          "correctOptionIndex": 1,
+          "reference": "Sahih Bukhari",
+          "explanation": "It is a mandatory charity of food given before the Eid al-Fitr prayer."
+        },
+        {
+          "id": "q_zk_m9",
+          "questionText": "What is Rikaz?",
+          "options": ["Buried treasure found in the earth", "Agricultural crops", "Lost animals", "Debts owed to you"],
+          "correctOptionIndex": 0,
+          "reference": "Fiqh",
+          "explanation": "Rikaz is hidden or buried treasure, and its Zakat rate is 20% upon finding."
+        },
+        {
+          "id": "q_zk_m10",
+          "questionText": "Can Zakat be given to build a mosque?",
+          "options": ["Yes, it falls under 'Fi Sabilillah'", "No, it must go to eligible people directly", "Only if the mosque is in debt", "Yes, without any conditions"],
+          "correctOptionIndex": 1,
+          "reference": "Majority Fiqh Opinion",
+          "explanation": "According to the majority of scholars, Zakat is for specific categories of people, whereas general charities (Sadaqah/Waqf) build mosques."
+        }
+      ]
+    },
+    {
+      "id": "sawm_medium",
+      "title": "4. Sawm (Fasting)",
+      "iconName": "sawm",
+      "isCompleted": false,
+      "isLocked": false,
+      "questions": [
+        {
+          "id": "q_sw_m1",
+          "questionText": "What is the penalty (Kaffarah) for deliberately breaking a Ramadan fast by eating or drinking without a valid excuse?",
+          "options": ["Fasting 3 days", "Fasting 60 consecutive days", "Paying Zakat", "Performing Hajj"],
+          "correctOptionIndex": 1,
+          "reference": "Sahih Bukhari",
+          "explanation": "The primary Kaffarah is freeing a slave, or fasting two consecutive months, or feeding 60 poor people."
+        },
+        {
+          "id": "q_sw_m2",
+          "questionText": "On which of these days is it strictly Haram (forbidden) to fast?",
+          "options": ["Mondays and Thursdays", "The day of Arafah", "Eid al-Fitr and Eid al-Adha", "The month of Sha'ban"],
+          "correctOptionIndex": 2,
+          "reference": "Sahih Muslim",
+          "explanation": "Fasting is prohibited on the two days of Eid."
+        },
+        {
+          "id": "q_sw_m3",
+          "questionText": "What is the name of the pre-dawn meal taken before fasting?",
+          "options": ["Iftar", "Suhoor", "Fidya", "Walima"],
+          "correctOptionIndex": 1,
+          "reference": "Sunnah",
+          "explanation": "Suhoor is the meal consumed early in the morning before fasting begins."
+        },
+        {
+          "id": "q_sw_m4",
+          "questionText": "Fasting on the Day of Arafah expiates the sins of how many years?",
+          "options": ["One year", "Two years (past and coming)", "Five years", "Ten years"],
+          "correctOptionIndex": 1,
+          "reference": "Sahih Muslim",
+          "explanation": "It expiates the minor sins of the previous year and the coming year."
+        },
+        {
+          "id": "q_sw_m5",
+          "questionText": "What is Fidya in the context of fasting?",
+          "options": ["A voluntary fast", "Compensation paid by those permanently unable to fast", "The night prayer", "A feast"],
+          "correctOptionIndex": 1,
+          "reference": "Quran 2:184",
+          "explanation": "Fidya is feeding a poor person for every missed fast by someone chronically ill or elderly."
+        },
+        {
+          "id": "q_sw_m6",
+          "questionText": "Fasting 6 days in which Islamic month is equivalent to fasting the whole year when combined with Ramadan?",
+          "options": ["Muharram", "Rajab", "Sha'ban", "Shawwal"],
+          "correctOptionIndex": 3,
+          "reference": "Sahih Muslim",
+          "explanation": "Whoever fasts Ramadan, then follows it with six days of Shawwal, it is as if they fasted continually."
+        },
+        {
+          "id": "q_sw_m7",
+          "questionText": "Which historical Islamic event occurred during the month of Ramadan?",
+          "options": ["The Hijrah to Madinah", "The Battle of Badr", "The Battle of Uhud", "The Treaty of Hudaybiyyah"],
+          "correctOptionIndex": 1,
+          "reference": "Islamic History",
+          "explanation": "The Battle of Badr took place on the 17th of Ramadan."
+        },
+        {
+          "id": "q_sw_m8",
+          "questionText": "What is 'I'tikaf'?",
+          "options": ["A special food for breaking fast", "Secluding oneself in the mosque for worship", "Paying charity in Ramadan", "Traveling for Umrah"],
+          "correctOptionIndex": 1,
+          "reference": "Sunnah of Ramadan",
+          "explanation": "I'tikaf is retreating to the mosque, usually during the last 10 days of Ramadan, to focus solely on worship."
+        },
+        {
+          "id": "q_sw_m9",
+          "questionText": "What does 'Qada' fasting mean?",
+          "options": ["Fasting on Mondays", "Making up for missed obligatory fasts", "Fasting during a journey", "Breaking the fast"],
+          "correctOptionIndex": 1,
+          "reference": "Fiqh Terminology",
+          "explanation": "Qada refers to making up missed obligatory fasts of Ramadan at a later date."
+        },
+        {
+          "id": "q_sw_m10",
+          "questionText": "What is the fasting of Prophet Dawud (AS)?",
+          "options": ["Fasting only in winter", "Fasting every day of the year", "Fasting one day and breaking the fast the next", "Fasting 3 days a month"],
+          "correctOptionIndex": 2,
+          "reference": "Sahih Bukhari",
+          "explanation": "Prophet Dawud (AS) used to fast on alternate days, which is highly praised in Hadith."
+        }
+      ]
+    },
+    {
+      "id": "hajj_medium",
+      "title": "5. Hajj (Pilgrimage)",
+      "iconName": "hajj",
+      "isCompleted": false,
+      "isLocked": false,
+      "questions": [
+        {
+          "id": "q_hj_m1",
+          "questionText": "Which of the following is NOT a recognized type of Hajj?",
+          "options": ["Hajj al-Tamattu'", "Hajj al-Qiran", "Hajj al-Ifrad", "Hajj al-Mutlaq"],
+          "correctOptionIndex": 3,
+          "reference": "Fiqh of Hajj",
+          "explanation": "The three types are Tamattu' (Umrah then Hajj), Qiran (combined), and Ifrad (Hajj only)."
+        },
+        {
+          "id": "q_hj_m2",
+          "questionText": "What is a 'Miqat'?",
+          "options": ["A type of Hajj garment", "A specific boundary where pilgrims must enter Ihram", "A stone at the Kaaba", "A well in Makkah"],
+          "correctOptionIndex": 1,
+          "reference": "Geography of Hajj",
+          "explanation": "Miqat refers to the physical boundaries a pilgrim must not cross without being in a state of Ihram."
+        },
+        {
+          "id": "q_hj_m3",
+          "questionText": "What is 'Talbiyah'?",
+          "options": ["The act of shaving the head", "The declaration 'Labbayk Allahumma Labbayk'", "Throwing stones", "Running between Safa and Marwah"],
+          "correctOptionIndex": 1,
+          "reference": "Sunnah of Ihram",
+          "explanation": "Talbiyah is the prayer invoked by pilgrims stating their presence for the service of Allah."
+        },
+        {
+          "id": "q_hj_m4",
+          "questionText": "Where do pilgrims spend the night directly after the Day of Arafah?",
+          "options": ["Mina", "Makkah", "Muzdalifah", "Madinah"],
+          "correctOptionIndex": 2,
+          "reference": "Steps of Hajj",
+          "explanation": "After leaving Arafah at sunset, pilgrims travel to Muzdalifah to pray Maghrib and Isha and spend the night."
+        },
+        {
+          "id": "q_hj_m5",
+          "questionText": "The act of Sa'i (walking between Safa and Marwah) honors the actions of which historical figure?",
+          "options": ["Prophet Ibrahim (AS)", "Prophet Muhammad (PBUH)", "Hajar (wife of Ibrahim)", "Prophet Ismail (AS)"],
+          "correctOptionIndex": 2,
+          "reference": "Islamic History",
+          "explanation": "It commemorates Hajar's desperate search for water for her infant son Ismail."
+        },
+        {
+          "id": "q_hj_m6",
+          "questionText": "What is 'Tawaf al-Ifadah'?",
+          "options": ["The arrival Tawaf", "The farewell Tawaf", "The obligatory Tawaf for Hajj on the 10th of Dhul-Hijjah", "A voluntary Tawaf"],
+          "correctOptionIndex": 2,
+          "reference": "Pillars of Hajj",
+          "explanation": "Tawaf al-Ifadah (or Tawaf az-Ziyarah) is an essential pillar of Hajj performed after returning from Arafah/Muzdalifah."
+        },
+        {
+          "id": "q_hj_m7",
+          "questionText": "What does 'Rami al-Jamarat' refer to?",
+          "options": ["Sacrificing an animal", "Stoning the pillars in Mina", "Drinking Zamzam water", "Shaving the head"],
+          "correctOptionIndex": 1,
+          "reference": "Rites of Hajj",
+          "explanation": "It is the symbolic stoning of the devil performed at three pillars in Mina."
+        },
+        {
+          "id": "q_hj_m8",
+          "questionText": "What does 'Raml' mean during Tawaf?",
+          "options": ["Kissing the Black Stone", "Walking with quick, short steps in the first three circuits", "Making dua", "Raising the hands"],
+          "correctOptionIndex": 1,
+          "reference": "Sunnah of Tawaf",
+          "explanation": "Raml is the sunnah for men to walk briskly with chests thrust forward during the first three rounds of an initial Tawaf."
+        },
+        {
+          "id": "q_hj_m9",
+          "questionText": "In Hajj, what is 'Dam'?",
+          "options": ["The state of purity", "A penalty sacrifice for making a mistake or missing a wajib act", "The final prayer", "The guide leading the group"],
+          "correctOptionIndex": 1,
+          "reference": "Fiqh of Hajj",
+          "explanation": "Dam refers to an expiation (usually sacrificing a sheep) required when a pilgrim violates certain rules of Ihram or misses a mandatory act."
+        },
+        {
+          "id": "q_hj_m10",
+          "questionText": "What is the day of 'Tarwiyah'?",
+          "options": ["The 8th of Dhul-Hijjah", "The 9th of Dhul-Hijjah", "The 10th of Dhul-Hijjah", "The 13th of Dhul-Hijjah"],
+          "correctOptionIndex": 0,
+          "reference": "Steps of Hajj",
+          "explanation": "The 8th of Dhul-Hijjah is called the Day of Tarwiyah (fetching water), when pilgrims move to Mina."
+        }
+      ]
+    }
+  ]
+},
+ {
+  "id": "hard_level",
+  "difficulty": "hard",
+  "title": "Hard Level",
+  "topics": [
+    {
+      "id": "shahadah_hard",
+      "title": "1. Shahadah (Faith)",
+      "iconName": "shahadah",
+      "isCompleted": false,
+      "isLocked": false,
+      "questions": [
+        {
+          "id": "q_sh_h1",
+          "questionText": "How many conditions (Shurut) of the Shahadah are universally agreed upon by scholars of Aqeedah?",
+          "options": ["Five", "Seven", "Nine", "Twelve"],
+          "correctOptionIndex": 1,
+          "reference": "Books of Aqeedah",
+          "explanation": "They are Knowledge, Certainty, Acceptance, Submission, Truthfulness, Sincerity, and Love."
+        },
+        {
+          "id": "q_sh_h2",
+          "questionText": "The concept of 'Al-Wala wal-Bara' is closely linked to which part of belief?",
+          "options": ["Fasting rules", "Tawheed", "Inheritance laws", "Marriage"],
+          "correctOptionIndex": 1,
+          "reference": "Aqeedah",
+          "explanation": "It means loyalty to Allah/believers and disavowal of polytheism."
+        },
+        {
+          "id": "q_sh_h3",
+          "questionText": "What does 'Tawheed al-Hakimiyyah' refer to in modern Islamic discourse?",
+          "options": ["Oneness in worship", "Oneness in legislation and rule", "Oneness in creation", "Oneness in names"],
+          "correctOptionIndex": 1,
+          "reference": "Contemporary Islamic Thought",
+          "explanation": "It refers to the belief that Allah is the ultimate Lawgiver."
+        },
+        {
+          "id": "q_sh_h4",
+          "questionText": "If a person claims a prophet came after Muhammad (PBUH), what is their status?",
+          "options": ["A sinner", "A disbeliever", "A hypocrite", "A righteous person"],
+          "correctOptionIndex": 1,
+          "reference": "Ijma (Consensus)",
+          "explanation": "Rejecting the finality of Prophethood nullifies Islam."
+        },
+        {
+          "id": "q_sh_h5",
+          "questionText": "According to the Ash'ari and Maturidi schools, how are Allah's attributes understood?",
+          "options": ["Rejected completely", "Affirmed physically", "Affirmed without comparing to creation", "Considered symbolic only"],
+          "correctOptionIndex": 2,
+          "reference": "Classical Theology",
+          "explanation": "They affirm the attributes but without anthropomorphism (Tashbih)."
+        },
+        {
+          "id": "q_sh_h6",
+          "questionText": "The phrase 'Kufr duna Kufr' (minor disbelief) was famously used by which companion regarding ruling by other than Allah's law?",
+          "options": ["Umar ibn Al-Khattab", "Abdullah ibn Abbas", "Ali ibn Abi Talib", "Abu Hurairah"],
+          "correctOptionIndex": 1,
+          "reference": "Tafsir of Surah Al-Ma'idah",
+          "explanation": "Ibn Abbas used this to explain different levels of Kufr."
+        },
+        {
+          "id": "q_sh_h7",
+          "questionText": "What is 'Tawassul'?",
+          "options": ["Rejecting faith", "Seeking a means of nearness to Allah", "Performing Hajj", "Giving charity secretly"],
+          "correctOptionIndex": 1,
+          "reference": "Fiqh and Aqeedah",
+          "explanation": "Tawassul is using a permissible means to draw close to Allah."
+        },
+        {
+          "id": "q_sh_h8",
+          "questionText": "Which sect historically deviated by claiming that committing a major sin completely expels a person from Islam?",
+          "options": ["Murji'ah", "Khawarij", "Mu'tazila", "Qadariyyah"],
+          "correctOptionIndex": 1,
+          "reference": "Islamic History",
+          "explanation": "The Khawarij held the extremist view of Takfir for major sins."
+        },
+        {
+          "id": "q_sh_h9",
+          "questionText": "What is the ruling on one who mocks an established part of the religion out of a joke?",
+          "options": ["Minor sin", "Makruh", "Nullifies Islam", "Requires a small charity"],
+          "correctOptionIndex": 2,
+          "reference": "Surah At-Tawbah 65-66",
+          "explanation": "Mocking Allah, His verses, or His Messenger is an act of Kufr."
+        },
+        {
+          "id": "q_sh_h10",
+          "questionText": "What is 'Ilm al-Kalam'?",
+          "options": ["Science of Hadith", "Science of Tajweed", "Islamic Scholastic Theology", "Islamic Jurisprudence"],
+          "correctOptionIndex": 2,
+          "reference": "Islamic Sciences",
+          "explanation": "It is the study of Islamic doctrine through dialectical methods."
+        }
+      ]
+    },
+    {
+      "id": "salah_hard",
+      "title": "2. Salah (Prayer)",
+      "iconName": "salah",
+      "isCompleted": false,
+      "isLocked": false,
+      "questions": [
+        {
+          "id": "q_sl_h1",
+          "questionText": "According to the majority of scholars (Jumhoor), what is the ruling on a person who abandons Salah entirely out of laziness, but still believes it is obligatory?",
+          "options": ["A disbeliever (Kafir)", "A major sinner (Fasiq) but still Muslim", "A hypocrite (Munafiq)", "An apostate"],
+          "correctOptionIndex": 1,
+          "reference": "Fiqh Differences",
+          "explanation": "While the Hanbali school considers them a Kafir, the Shafi'i, Maliki, and Hanafi schools consider them a major sinner who remains a Muslim."
+        },
+        {
+          "id": "q_sl_h2",
+          "questionText": "What is 'Jam' Taqdeem'?",
+          "options": ["Shortening a 4-rak'ah prayer to 2", "Praying Maghrib and Isha together at the time of Isha", "Praying Dhuhr and Asr together at the time of Dhuhr", "Praying an extra sunnah before Fard"],
+          "correctOptionIndex": 2,
+          "reference": "Fiqh of Salah",
+          "explanation": "Jam' Taqdeem means advancing the later prayer to the time of the earlier one (e.g., Asr at the time of Dhuhr)."
+        },
+        {
+          "id": "q_sl_h3",
+          "questionText": "If a person is suffering from 'Istihadah' (continuous non-menstrual bleeding), what must they do to pray?",
+          "options": ["They cannot pray", "Perform Ghusl before every prayer", "Make a fresh Wudu for every obligatory prayer after its time has entered", "Combine all prayers at the end of the day"],
+          "correctOptionIndex": 2,
+          "reference": "Sahih Bukhari",
+          "explanation": "They must wash the area, secure it, and make a new Wudu for each prayer time."
+        },
+        {
+          "id": "q_sl_h4",
+          "questionText": "Is Wudu strictly required for 'Sujud al-Tilawah' (prostration of recitation) outside of Salah?",
+          "options": ["Yes, by consensus", "Yes, according to the majority (Jumhoor)", "No, it is highly disliked", "Only for women"],
+          "correctOptionIndex": 1,
+          "reference": "Fiqh",
+          "explanation": "The four main Madhahib require Wudu for it, though some scholars like Ibn Umar and Ibn Taymiyyah allowed it without."
+        },
+        {
+          "id": "q_sl_h5",
+          "questionText": "In 'Salat al-Khawf' (Prayer of Fear) during battle, how is the prayer typically managed?",
+          "options": ["It is delayed until after the battle", "The troops are divided; one group prays with the Imam while the other guards, then they switch", "Everyone prays individually while fighting", "It is skipped entirely"],
+          "correctOptionIndex": 1,
+          "reference": "Surah An-Nisa 102",
+          "explanation": "The Quran explicitly outlines dividing the army so that part of them pray while others maintain the guard."
+        },
+        {
+          "id": "q_sl_h6",
+          "questionText": "According to the Hanafi Madhhab, what is the status of the Witr prayer?",
+          "options": ["Fard (Strictly Obligatory)", "Wajib (Necessary/Obligatory but slightly lesser than Fard)", "Sunnah Mu'akkadah", "Nafl"],
+          "correctOptionIndex": 1,
+          "reference": "Hanafi Fiqh",
+          "explanation": "Hanafis consider Witr to be Wajib, requiring it to be made up (Qada) if missed."
+        },
+        {
+          "id": "q_sl_h7",
+          "questionText": "What distance (roughly) is generally accepted by the majority of scholars to allow shortening the prayer (Qasr)?",
+          "options": ["10 miles (16 km)", "48 miles (approx. 80 km)", "100 miles (160 km)", "Any journey outside the city limits"],
+          "correctOptionIndex": 1,
+          "reference": "Fiqh (Majority)",
+          "explanation": "The majority set the minimum distance at 4 Burud, which translates to roughly 48 miles or 80 kilometers."
+        },
+        {
+          "id": "q_sl_h8",
+          "questionText": "If a latecomer joins the Imam just as he is rising from Ruku, what do they do?",
+          "options": ["Wait until the Imam stands up for the next Rak'ah", "Join immediately but the Rak'ah does not count for them", "Join and the Rak'ah counts", "Perform an extra Sujud"],
+          "correctOptionIndex": 1,
+          "reference": "Sunnah",
+          "explanation": "You should transition to whatever state the Imam is in, but missing the Ruku means that specific Rak'ah is not counted."
+        },
+        {
+          "id": "q_sl_h9",
+          "questionText": "Which scholar/school holds the strict view that reciting Surah Al-Fatihah behind the Imam in a loud prayer is NOT permissible?",
+          "options": ["Shafi'i", "Ahmad ibn Hanbal", "Hanafi", "Maliki"],
+          "correctOptionIndex": 2,
+          "reference": "Fiqh Differences",
+          "explanation": "The Hanafi school holds that the recitation of the Imam is sufficient for the follower in all prayers."
+        },
+        {
+          "id": "q_sl_h10",
+          "questionText": "What is the ruling on praying in a garment containing a small amount of blood (less than a dirham coin)?",
+          "options": ["Invalidates the prayer universally", "Excused in the Hanafi madhhab", "Only excused for warriors", "Requires a double Sujud Sahw"],
+          "correctOptionIndex": 1,
+          "reference": "Fiqh of Taharah",
+          "explanation": "A very small amount of unavoidable impurity (like a spot of blood less than a dirham) is excused in Hanafi Fiqh."
+        }
+      ]
+    },
+    {
+      "id": "zakat_hard",
+      "title": "3. Zakat (Charity)",
+      "iconName": "zakat",
+      "isCompleted": false,
+      "isLocked": false,
+      "questions": [
+        {
+          "id": "q_zk_h1",
+          "questionText": "How is Zakat calculated on business inventory (Urud al-Tijarah)?",
+          "options": ["Based on the original purchase price", "Based on the expected future profit", "Based on the current market wholesale value at the end of the Hawl", "A flat rate per item"],
+          "correctOptionIndex": 2,
+          "reference": "Fiqh of Zakat",
+          "explanation": "Business inventory is evaluated at its current market value upon the completion of the Zakat year."
+        },
+        {
+          "id": "q_zk_h2",
+          "questionText": "What is the minimum Nisab for camels?",
+          "options": ["1 camel", "5 camels", "10 camels", "40 camels"],
+          "correctOptionIndex": 1,
+          "reference": "Sahih Bukhari",
+          "explanation": "Zakat becomes obligatory when one owns 5 camels, for which 1 sheep must be given."
+        },
+        {
+          "id": "q_zk_h3",
+          "questionText": "Regarding 'strong debts' (debts owed to you that you are confident will be repaid), when is Zakat due on them?",
+          "options": ["Only when the debt is finally collected", "Every year as part of your total wealth", "Never", "Only once after collection for the past years"],
+          "correctOptionIndex": 1,
+          "reference": "Majority of Scholars",
+          "explanation": "If a debt is 'strong' (the debtor acknowledges it and is able to pay), it is treated as wealth currently in your possession and taxed yearly."
+        },
+        {
+          "id": "q_zk_h4",
+          "questionText": "Is Zakat required on women's gold and silver jewelry meant strictly for personal adornment?",
+          "options": ["Yes, by consensus", "No, by consensus", "Yes according to Hanafi Fiqh, but No according to the majority (Jumhoor)", "Only if the jewelry is inherited"],
+          "correctOptionIndex": 2,
+          "reference": "Fiqh Differences",
+          "explanation": "The Hanafis require Zakat on personal gold/silver jewelry if it reaches Nisab, whereas Shafi'i, Maliki, and Hanbali schools do not."
+        },
+        {
+          "id": "q_zk_h5",
+          "questionText": "Are descendants of the Prophet's family (Ahl al-Bayt / Banu Hashim) eligible to receive obligatory Zakat?",
+          "options": ["Yes, they have priority", "No, it is strictly forbidden for them", "Only if they are in extreme poverty", "Only Zakat al-Fitr"],
+          "correctOptionIndex": 1,
+          "reference": "Sahih Muslim",
+          "explanation": "Obligatory Zakat/Sadaqah is forbidden for the family of Muhammad (PBUH) as a matter of honor and purity; they may receive gifts instead."
+        },
+        {
+          "id": "q_zk_h6",
+          "questionText": "Can a person pay their Zakat in advance (e.g., for the next 1-2 years)?",
+          "options": ["No, it invalidates the Zakat", "Yes, it is permissible according to the majority if the Nisab is met", "Only in times of war", "Only for Zakat al-Fitr"],
+          "correctOptionIndex": 1,
+          "reference": "Sunan Abu Dawud",
+          "explanation": "The Prophet (PBUH) allowed Al-Abbas to pay his Zakat for two years in advance."
+        },
+        {
+          "id": "q_zk_h7",
+          "questionText": "What is the ruling on transferring Zakat funds from one's own city to another country?",
+          "options": ["Haram entirely", "Permissible without restriction", "Disliked unless there is a greater need (e.g., famine, war, poor relatives) elsewhere", "Mandatory to send to Makkah"],
+          "correctOptionIndex": 2,
+          "reference": "Fiqh Principles",
+          "explanation": "The fundamental principle is that Zakat should be distributed locally, but it can be transferred if there is a more pressing need elsewhere."
+        },
+        {
+          "id": "q_zk_h8",
+          "questionText": "Does an Waqf (Endowment) property itself require Zakat to be paid on its capital value?",
+          "options": ["Yes, every year", "No, because there is no specific human owner", "Only if it generates profit", "Only after 10 years"],
+          "correctOptionIndex": 1,
+          "reference": "Fiqh of Waqf",
+          "explanation": "Waqf property belongs to Allah and does not have an individual owner, so there is no Zakat on the corpus/capital itself."
+        },
+        {
+          "id": "q_zk_h9",
+          "questionText": "Who are 'Al-Mu'allafati Qulubuhum' in the categories of Zakat recipients?",
+          "options": ["The Zakat collectors", "Those whose hearts are to be reconciled (e.g., new Muslims or potential allies)", "Those heavily in debt", "Travelers stranded far from home"],
+          "correctOptionIndex": 1,
+          "reference": "Quran 9:60",
+          "explanation": "It refers to those whose hearts are drawn to Islam, often given to new converts or influential leaders to strengthen their faith or alliance."
+        },
+        {
+          "id": "q_zk_h10",
+          "questionText": "If one owns shares/stocks meant for long-term dividend investment (not trading), how is Zakat paid?",
+          "options": ["On the entire market value of the shares", "On the dividend earnings only (like agricultural produce)", "No Zakat is due", "On the underlying zakatable assets of the company if discernible"],
+          "correctOptionIndex": 3,
+          "reference": "AAOIFI Shari'ah Standards",
+          "explanation": "For long-term holdings, one pays Zakat on the proportionate zakatable assets (cash, inventory) of the company, or roughly 2.5% of the dividend if calculating assets is impossible."
+        }
+      ]
+    },
+    {
+      "id": "sawm_hard",
+      "title": "4. Sawm (Fasting)",
+      "iconName": "sawm",
+      "isCompleted": false,
+      "isLocked": false,
+      "questions": [
+        {
+          "id": "q_sw_h1",
+          "questionText": "According to the Shafi'i and Hanbali schools, the severe penalty (Kaffarah) of fasting 60 consecutive days is explicitly for which act during a Ramadan fast?",
+          "options": ["Eating intentionally", "Drinking water intentionally", "Marital intercourse", "Backbiting extensively"],
+          "correctOptionIndex": 2,
+          "reference": "Fiqh Differences",
+          "explanation": "While Hanafis apply Kaffarah to eating/drinking intentionally as well, Shafi'is and Hanbalis restrict the 60-day penalty strictly to intercourse."
+        },
+        {
+          "id": "q_sw_h2",
+          "questionText": "What is 'Al-Wisal' in fasting?",
+          "options": ["Fasting alternate days", "Fasting continuously for days without breaking the fast at night", "Fasting while traveling", "Fasting on Fridays only"],
+          "correctOptionIndex": 1,
+          "reference": "Sahih Bukhari",
+          "explanation": "Al-Wisal is continuous fasting without eating Iftar. The Prophet (PBUH) did this but forbade his Ummah from doing it out of mercy."
+        },
+        {
+          "id": "q_sw_h3",
+          "questionText": "What is the ruling on using an asthma inhaler (which contains aerosolized medicine) while fasting, according to contemporary major fatwa councils?",
+          "options": ["It absolutely breaks the fast", "It does not break the fast, as it goes to the lungs, not the stomach", "It requires Kaffarah", "It requires Fidya only"],
+          "correctOptionIndex": 1,
+          "reference": "IFA (Islamic Fiqh Academy) Rulings",
+          "explanation": "The majority of modern scholars rule that inhalers do not invalidate the fast because the medicine acts on the respiratory tract, not the digestive system."
+        },
+        {
+          "id": "q_sw_h4",
+          "questionText": "If someone dies while owing obligatory fasts (e.g., from an illness they recovered from but didn't make up), what should be done?",
+          "options": ["Nothing, it is forgiven", "Their heir (next of kin) can fast on their behalf", "The state must pay", "It converts to a financial debt only"],
+          "correctOptionIndex": 1,
+          "reference": "Sahih Bukhari",
+          "explanation": "The Prophet (PBUH) said: 'Whoever dies and owes some fasts, his heir should fast on his behalf.'"
+        },
+        {
+          "id": "q_sw_h5",
+          "questionText": "According to the Maliki Madhhab, how often must the intention (Niyyah) for Ramadan be made?",
+          "options": ["Once at the beginning of the month for the entire month", "Every single night before dawn", "It is not required at all", "Only on the first and last day"],
+          "correctOptionIndex": 0,
+          "reference": "Maliki Fiqh",
+          "explanation": "Unlike the majority who require a separate intention every night, Malikis allow a single intention for continuous required acts like Ramadan."
+        },
+        {
+          "id": "q_sw_h6",
+          "questionText": "Does cupping (Hijama) break the fast?",
+          "options": ["Yes, according to all scholars", "No, according to all scholars", "Yes in the Hanbali school, but No in the majority of schools", "Only if blood is swallowed"],
+          "correctOptionIndex": 2,
+          "reference": "Fiqh Differences",
+          "explanation": "The Hanbali madhhab holds that cupping breaks the fast for both the cupper and the cupped, while the majority say it only causes disliked weakness."
+        },
+        {
+          "id": "q_sw_h7",
+          "questionText": "If a pregnant or nursing woman breaks her fast purely out of fear for the health of her BABY (not herself), what is required of her according to the Shafi'i and Hanbali schools?",
+          "options": ["Make up the fasts (Qada) only", "Pay Fidya only", "Both make up the fasts (Qada) and pay Fidya", "Nothing"],
+          "correctOptionIndex": 2,
+          "reference": "Fiqh of Fasting",
+          "explanation": "If the fear is solely for the child, they must make up the days and also pay Fidya (feeding a poor person) for each day missed."
+        },
+        {
+          "id": "q_sw_h8",
+          "questionText": "What happens if a person swallows vomit unintentionally while fasting?",
+          "options": ["The fast is broken, Qada is needed", "The fast is broken, Kaffarah is needed", "The fast is completely valid and unbroken", "They must stop eating but the day doesn't count"],
+          "correctOptionIndex": 2,
+          "reference": "Sunan Abu Dawud",
+          "explanation": "If one is overcome by vomiting unintentionally, the fast is not broken. Intentionally inducing vomiting breaks the fast."
+        },
+        {
+          "id": "q_sw_h9",
+          "questionText": "If a Muslim travels from a country that started fasting on a Monday to a country that started on Tuesday, and the second country announces Eid, but the traveler has only fasted 28 days, what must they do?",
+          "options": ["Fast on Eid day to make it 29", "Celebrate Eid with the country they are in, then make up one day later", "Ignore the new country and fast a 29th day normally", "Nothing, 28 days is accepted for travelers"],
+          "correctOptionIndex": 1,
+          "reference": "Contemporary Fiqh Councils",
+          "explanation": "A lunar month cannot be less than 29 days. They cannot fast on Eid, so they celebrate Eid with the locals and make up one day of Qada later."
+        },
+        {
+          "id": "q_sw_h10",
+          "questionText": "Which type of fast is considered 'Makruh Tahrimi' (Prohibitively Disliked) if done independently without joining it with a day before or after?",
+          "options": ["Fasting on Monday", "Fasting on Friday", "Fasting on the 13th of the month", "Fasting on Arafah"],
+          "correctOptionIndex": 1,
+          "reference": "Sahih Bukhari",
+          "explanation": "Singling out Friday for voluntary fasting is disliked unless it coincides with a habitual fast or is joined with Thursday/Saturday."
+        }
+      ]
+    },
+    {
+      "id": "hajj_hard",
+      "title": "5. Hajj (Pilgrimage)",
+      "iconName": "hajj",
+      "isCompleted": false,
+      "isLocked": false,
+      "questions": [
+        {
+          "id": "q_hj_h1",
+          "questionText": "What is the consequence of crossing the Miqat intentionally without entering the state of Ihram?",
+          "options": ["Hajj is completely invalid", "One must return to the Miqat to enter Ihram, or pay a Dam (sacrifice a sheep)", "One just says Istighfar and continues", "Must fast for 3 days"],
+          "correctOptionIndex": 1,
+          "reference": "Fiqh of Hajj",
+          "explanation": "Crossing the Miqat without Ihram requires the pilgrim to return to it. If they proceed, they must offer a Dam (penalty sacrifice)."
+        },
+        {
+          "id": "q_hj_h2",
+          "questionText": "If a woman is menstruating, which pillar of Hajj must she delay until she is pure?",
+          "options": ["Standing at Arafah", "Staying in Muzdalifah", "Tawaf al-Ifadah", "Rami al-Jamarat"],
+          "correctOptionIndex": 2,
+          "reference": "Sahih Bukhari",
+          "explanation": "A menstruating woman does all the rites of Hajj (including Arafah) except circumambulating the Kaaba (Tawaf)."
+        },
+        {
+          "id": "q_hj_h3",
+          "questionText": "What is the ruling on 'Tawaf al-Wada' (Farewell Tawaf) for a menstruating woman leaving Makkah?",
+          "options": ["She must wait in Makkah until pure", "It is completely waived/forgiven for her", "She must pay a Dam instead", "She performs it from outside the mosque"],
+          "correctOptionIndex": 1,
+          "reference": "Sahih Muslim",
+          "explanation": "The Prophet (PBUH) made an exemption for menstruating women, allowing them to depart Makkah without the Farewell Tawaf."
+        },
+        {
+          "id": "q_hj_h4",
+          "questionText": "For a pilgrim performing 'Hajj al-Ifrad' (Hajj only), what is the ruling on the animal sacrifice (Hadi)?",
+          "options": ["It is strictly obligatory", "It is highly recommended (Sunnah) but not obligatory", "It is forbidden", "It requires sacrificing a camel"],
+          "correctOptionIndex": 1,
+          "reference": "Fiqh of Hajj",
+          "explanation": "Unlike Tamattu' and Qiran where sacrifice is obligatory, a person doing Ifrad is not obligated to sacrifice an animal, though it is Sunnah."
+        },
+        {
+          "id": "q_hj_h5",
+          "questionText": "What is the primary condition for performing 'Hajj al-Badal' (Hajj on behalf of someone else)?",
+          "options": ["You must be related to them", "You must have already performed your own obligatory Hajj first", "You must do it for free", "You must be older than them"],
+          "correctOptionIndex": 1,
+          "reference": "Sunan Abu Dawud",
+          "explanation": "The Prophet (PBUH) heard a man making Talbiyah for 'Shubrumah' and ordered him to perform his own Hajj before performing it for Shubrumah."
+        },
+        {
+          "id": "q_hj_h6",
+          "questionText": "According to the majority of scholars (Jumhoor), what is the ruling of staying the night in Muzdalifah?",
+          "options": ["Fard (Pillar - Hajj is invalid without it)", "Wajib (Obligatory - missing it requires Dam)", "Sunnah (Recommended)", "Mubah (Permissible)"],
+          "correctOptionIndex": 1,
+          "reference": "Fiqh Majorities",
+          "explanation": "It is considered Wajib. If someone misses it entirely without a valid excuse, their Hajj is valid but they owe a penalty sacrifice (Dam)."
+        },
+        {
+          "id": "q_hj_h7",
+          "questionText": "If a pilgrim in a state of Ihram hunts and kills a wild land animal, what is the required penalty?",
+          "options": ["Fasting for one month", "Sacrificing a domestic animal of equivalent size/value, or feeding the poor, or fasting", "Paying a monetary fine to the state", "Hajj becomes invalid"],
+          "correctOptionIndex": 1,
+          "reference": "Quran 5:95",
+          "explanation": "The Quran dictates providing an equivalent livestock animal, or its value in food for the poor, or equivalent days of fasting."
+        },
+        {
+          "id": "q_hj_h8",
+          "questionText": "For women, what is the required amount of hair to cut to exit the state of Ihram (Tahallul)?",
+          "options": ["Shaving the head completely", "Cutting the length of a fingertip (Anmula) from the ends of the hair", "Cutting half the hair", "Plucking three hairs"],
+          "correctOptionIndex": 1,
+          "reference": "Fiqh of Hajj",
+          "explanation": "Women are forbidden from shaving their heads; they only gather their hair and trim roughly the length of a fingertip."
+        },
+        {
+          "id": "q_hj_h9",
+          "questionText": "If an elderly or sick pilgrim cannot throw the pebbles (Rami al-Jamarat) themselves, what is the Shar'i solution?",
+          "options": ["They pay a Dam instead", "The rite is waived completely", "They may appoint a proxy (wakil) to throw the stones on their behalf", "They wait until the next year"],
+          "correctOptionIndex": 2,
+          "reference": "Fiqh consensus",
+          "explanation": "Delegation is permissible for the stoning if a person is physically unable to reach the Jamarat due to extreme weakness or illness."
+        },
+        {
+          "id": "q_hj_h10",
+          "questionText": "What does 'Idtiba' refer to during the Tawaf?",
+          "options": ["Running between Safa and Marwah", "Exposing the right shoulder by placing the Ihram garment under the right armpit and over the left shoulder", "Kissing the Black Stone", "Making continuous dua"],
+          "correctOptionIndex": 1,
+          "reference": "Sunnah of Tawaf",
+          "explanation": "Idtiba is the Sunnah for men of uncovering the right shoulder during the Tawaf al-Qudum (Arrival Tawaf) or a Tawaf followed by Sa'i."
+        }
+      ]
+    }
+  ]
+}
 ]
